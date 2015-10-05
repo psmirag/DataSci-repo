@@ -1,5 +1,5 @@
 # DataSci-repo
-Repo for teh Data Science Specialization course
+Repo for the Data Science Specialization course
 
 ## This is a Sec heading
 ### Tertiary heading
